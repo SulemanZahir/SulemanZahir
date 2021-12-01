@@ -1,2 +1,9 @@
-hello world this css file for our local repo
+body {
+background-color: lightblue;
+}
+
+h1 {
+color: navy;
+margin-left: 20px;
+}
 
